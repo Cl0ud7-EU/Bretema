@@ -1,2 +1,2 @@
-# Bretema
+# Brétema
 Brétema Engine

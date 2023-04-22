@@ -1,0 +1,4 @@
+# Xcode files
+**.xcworkspace
+**.xcodeproj
+**.DS_Store
